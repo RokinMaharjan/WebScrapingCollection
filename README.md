@@ -5,7 +5,7 @@ Description of projects:-
 
 1.AsosScraper
 - Crawled to all the categories in "http://www.asos.com/women/beauty/make-up/cat/?cid=5020&cr=6&CTARef=shop|beauty|makeup"
-- Scraped details of all the products details along with their respective images
+- Scraped details of all the products along with their respective images
 
 2.BebeImageScraper
 - Scraped multiple images same product of all the dresses from "bebe.com" under the category "Dresses"
