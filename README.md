@@ -3,14 +3,14 @@ Web Scraping Collection (Jsoup Version)
 
 Description of projects:-
 
-1. AsosScraper
+1.AsosScraper
 - Crawled to all the categories in "http://www.asos.com/women/beauty/make-up/cat/?cid=5020&cr=6&CTARef=shop|beauty|makeup"
 - Scraped details of all the products details along with their respective images
 
-2. BebeImageScraper
+2.BebeImageScraper
 - Scraped multiple images same product of all the dresses from "bebe.com" under the category "Dresses"
 
-3. JSoup
+3.JSoup
 - A crawler that crawls to every link under "Categories-Netball" from "http://www.clubsofaustralia.com.au/Netball/Clubs-in-Western-Australia.html" and scrapes the information of all the clubs
 
 4.NetAPorterScraper
